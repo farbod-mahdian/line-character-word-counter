@@ -1,0 +1,16 @@
+Lines = 60
+Chars = 4076
+Words = 800
+
+Different words = 416
+
+<1> word: the -> Repeated: 32
+<2> word: and -> Repeated: 31
+<3> word: of -> Repeated: 23
+<4> word: to -> Repeated: 22
+<5> word: a -> Repeated: 17
+<6> word: for -> Repeated: 13
+<7> word: blockchain -> Repeated: 11
+<8> word: as -> Repeated: 11
+<9> word: in -> Repeated: 11
+<10> word: is -> Repeated: 9

@@ -1,0 +1,60 @@
+A digital loonie may be on the way — and thanks to blockchain, money will never be the same again
+By Star staff
+Wed., March 4, 2020
+
+Emerging technologies such as blockchain and cryptocurrencies are compelling subjects for Alex Tapscott. The author, 
+public speaker and venture capital investor’s new book “Financial Services Revolution, How Blockchain is Transforming Money, 
+Markets and Banking,” was co-authored with his father Don Tapscott. The Star spoke to the younger Tapscott recently 
+about uses for blockchain, security concerns and possibility of the Bank of Canada introducing a digital loonie.
+
+Can you explain what blockchain is?
+
+Simply put, blockchain is the most important computer science innovation in a generation and it’s ushering in a new era 
+for the internet — an internet of value. You see, when you use the internet to send information you’re sending a copy 
+and retaining an original (think email). That works for information but not money, financial assets or anything 
+that requires scarcity. So we still rely on middlemen. After all, when I send you money you need to know I don’t still 
+have a copy. Historically we’ve needed an intermediary to establish trust. Blockchain solves this problem. For the 
+first time in human history we have a digital medium for value that will enable individuals to transact and store value 
+in virtually every kind of asset peer to peer in a private, secure and trustless way without the need for middlemen like banks.
+
+What are the most promising uses of blockchain?
+
+Blockchain will do for capital and assets what the internet did for newspapers, film, and TV. It will force us to rethink 
+the deep structure and workings of many industries, starting with finance.
+
+In this next shift, not only could the U.S. dollar be displaced by a synthetic alternative or a Chinese crypto-yuan, 
+but virtually every marketplace — from securities like stocks and bonds, to insurance, accounting, audit and venture capital, 
+as well as new assets like our identities, never before owned and monetized as assets by individuals — will be made 
+virtually unrecognizable.
+
+Do you think Facebook’s proposed currency Libra will materialize?
+
+When Facebook announced its plan to create digital money called Libra, incumbents immediately pushed back. Even though Facebook 
+has marketed Libra mainly as a way to bank the unbanked — a noble cause, to be sure — it wants to deploy this coin across its platform, 
+for use in all forms of commerce online and off, which would position Facebook as a powerful new player in the global financial system. 
+It could change how, where, and with whom billions of people spend and save, borrow and loan, and otherwise finance and insure their lives 
+and livelihoods — and current legislators, regulators, and masters of the universe are having none of it. This is a watershed moment. 
+Facebook is one of the largest landlords of our digital economy, and its actions are far-reaching.
+
+First, Facebook is placing itself in the crosshairs of lawmakers and regulators as they wrestle for control over finance, money, and 
+influence among citizen users. Second, by wading into the massive, complex world of financial services, Facebook is pitting itself 
+against big banks as well as bit tech. Does anyone expect Jeff Bezos to allow Libra on Amazon, without launching an alternative? 
+Finally, Libra, like bitcoin, could forever alter the traditional role of fiat money in the global economy. Just as cellular technology 
+allowed billions to leapfrog land lines, Libra’s blockchain-based platform has the potential to leapfrog the traditional banking 
+infrastructure of today.
+
+In “Financial Services Revolution,” there’s much discussion of international transfer of funds being deliberately and unnecessarily slow. 
+How hard will it be for existing financial institutions to be convinced to give up their profit margins on these?
+
+With paradigm shifts, leaders of the old are often last to embrace the new, if they survive to embrace it at all. So why did 
+Blockbuster not create Netflix, and why did Sears not create Amazon? One reason is the innovator’s dilemma, where disrupters of 
+old paradigms have trouble disrupting themselves. But leaders of today’s banking giants need to understand that they’re standing 
+on a burning platform where the risk of taking a leap into the unknown is actually lower than the risk of staying put — because eventually 
+that platform will be engulfed and collapse.
+
+Do recent major hacks on digital currencies that use blockchain, including Ethereum Classic last year, pose a confidence problem?
+
+Blockchains are highly secure but they are not unhackable. If I say they’re unhackable I’ll surely get hacked tomorrow! However, 
+large established blockchains such as bitcoin, Hyperledger and even Ethereum have proven highly resilient to attack. 
+Certainly they are far more secure than traditional methods for storing data, which have proven very vulnerable — think Equifax, 
+Target or the Democratic National Committee.
